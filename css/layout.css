@@ -1004,3 +1004,21 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.my-cv-submit{
+   text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #fff;
+    background: #0D0D0D;
+    border: none;
+    cursor: pointer;
+    height: auto;
+    display: inline-block;
+    border-radius: 3px;
+    margin-left: 26%;
+    width: 100px!important;
+}
+
+.my-cv-submit:hover{
+   background-color: white!important;
+   color: black!important;
+}
